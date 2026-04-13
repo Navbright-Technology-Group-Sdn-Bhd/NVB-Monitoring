@@ -71,7 +71,8 @@
       "typescript": "5.7.2",
       "zod": "4.1.12",
       "@i18next-toolkit/cli>zod": "3.25.76",
-      "zod-openapi": "5.4.3"
+      "zod-openapi": "5.4.3",
+      "next": "15.1.11"
     },
     "patchedDependencies": {
       "zod-prisma@0.5.4": "patches/zod-prisma@0.5.4.patch",
